@@ -8,9 +8,7 @@
   🌱 I’m currently Working With Exploits/Crypters, and other<br>
   💬 ask me about anything, i am happy to help<br>
   
-  Image by [SAU](https://twitter.com/bysau_/status/1197884610358763521) | 
-  Inspired by [instance01](https://github.com/instance01/instance01)<br><br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
+
   
   ## Tech Stack
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
