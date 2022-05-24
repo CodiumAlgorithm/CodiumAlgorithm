@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='pic.jpg' width='250' align="left">
+  <img src='![изображение](https://user-images.githubusercontent.com/86024483/170148400-0903e385-6d68-4365-98cf-23794562022c.png)' width='250' align="left">
   <p float="left">
 
   👋 Hi! I'm STACIA~ OwO <br>
