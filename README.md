@@ -2,14 +2,11 @@
   <img src='https://cdn.discordapp.com/attachments/965325915225735181/978802629373206609/pic.jpg' width='250' align="left">
   <p float="left">
 
-  👋 Hi! I'm STACIA~ OwO <br>
+  👋 Hi! I'm CodiumAlgorithm <br>
   ❤ Nice to meet you 
   
-  🌱 I’m currently learning Python, Discord bot and other<br>
+  🌱 I’m currently Working With Exploits/Crypters, and other<br>
   💬 ask me about anything, i am happy to help<br>
-  💜 Interests: music, video games, programing language<br>
-  🎵 I love to hear japanese music.<br>
-  ⚡ Fun fact: i like to play video games But I play a very noob xD
   
   Image by [SAU](https://twitter.com/bysau_/status/1197884610358763521) | 
   Inspired by [instance01](https://github.com/instance01/instance01)<br><br>
