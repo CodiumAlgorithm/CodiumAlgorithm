@@ -33,7 +33,7 @@
   ## Support
 
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
+  BTC : bc1qpmt8mfcthytwa5aap6htk4485vrvxpkkhf9lgg
 
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> 
