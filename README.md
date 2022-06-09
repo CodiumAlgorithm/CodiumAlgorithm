@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='https://cdn.discordapp.com/attachments/965325915225735181/978802629373206609/pic.jpg' width='250' align="left">
+  
   <p float="left">
 
   👋 Hi! I'm CodiumAlgorithm <br>
