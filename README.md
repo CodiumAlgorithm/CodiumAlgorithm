@@ -8,7 +8,7 @@
   🌱 I’m currently Working With Exploits/Crypters, and other<br>
   💬 ask me about anything, i am happy to help<br>
     
-    WEBSITE : https://codiumsecurity.com/
+
   
 
   
