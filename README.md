@@ -59,4 +59,5 @@
     <a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <!--  -->
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false) --> 
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false) -->![codium](https://user-images.githubusercontent.com/86024483/181143463-7e691e65-bff4-452d-8de7-0bbbd19dd657.jpg)
+ 
