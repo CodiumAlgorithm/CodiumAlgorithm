@@ -40,7 +40,7 @@ Our encryption/protection/obfuscation software is not made for malicious use,but
   ## Support
 
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  BTC : bc1qpmt8mfcthytwa5aap6htk4485vrvxpkkhf9lgg
+  BTC : bc1qpulpztr0kg2c0q0zvat3hszg03l6x0srtcxj3n
 
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> 
